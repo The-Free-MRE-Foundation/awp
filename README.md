@@ -1,5 +1,7 @@
 ![](awp.png)  
 A tool to help altspacer preserve worlds before Altspace shuts down.  
+# Prerequisites
+### **You must have the 2020.3.9f1 Unity Editor installed (the same version Altspace uses)**
 # Download
 - Go to the [release page](https://github.com/The-Free-MRE-Foundation/awp/releases), and download the tgz file.
 # Installation
