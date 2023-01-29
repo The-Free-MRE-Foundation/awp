@@ -1,7 +1,7 @@
 # Altspace World Preserver  
-A tool to help altspacer preserve worlds before it shuts down.  
+A tool to help altspacer preserve worlds before Altspace shuts down.  
 # Download
-- Go to release page, and download the tgz file.
+- Go to the [release page](https://github.com/The-Free-MRE-Foundation/awp/releases), and download the tgz file.
 # Installation
 - Open Unity Hub and create a new Unity 2020.3.18 project. For your template, select Universal Render Pipeline.
 - In Unity on the menu bar, select Window > Package Manager.
@@ -16,3 +16,8 @@ A tool to help altspacer preserve worlds before it shuts down.
 - Click load to load a list of your worlds
 - Click the corresponding select button to confirm world selection
 - Click preserve to start preserving that world
+# Join us
+## vrsocial.org  
+[![Discord](https://img.shields.io/badge/Discord-%23CC2222.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7DPWRYNWuC)
+## freemre.com
+[![Discord](https://img.shields.io/badge/Discord-%230078D7.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yStWGYcgKJ)
