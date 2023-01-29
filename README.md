@@ -1,5 +1,7 @@
 # Altspace World Preserver  
 A tool to help altspacer preserve worlds before it shuts down.  
+# Download
+- Go to release page, and download the tgz file.
 # Installation
 - Open Unity Hub and create a new Unity 2020.3.18 project. For your template, select Universal Render Pipeline.
 - In Unity on the menu bar, select Window > Package Manager.
