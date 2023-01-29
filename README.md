@@ -1,11 +1,11 @@
 ![](awp.png)  
 A tool to help altspacer preserve worlds before Altspace shuts down.  
 # Prerequisites
-### **You must have the 2020.3.18 Unity Editor installed (the same version Altspace uses)**
+### **You must have the 2020.3.9f1 Unity Editor installed (the same version Altspace uses)**
 # Download
 - Go to the [release page](https://github.com/The-Free-MRE-Foundation/awp/releases), and download the tgz file.
 # Installation
-- Open Unity Hub and create a new Unity **2020.3.18** project. For your template, select Universal Render Pipeline.
+- Open Unity Hub and create a new Unity **2020.3.9f1** project. For your template, select Universal Render Pipeline.
 - In Unity on the menu bar, select Window > Package Manager.
 - In the Package Manager menu bar, select the plus sign drop down ("+"), and then select Add package from tarball.
 - Navigate to the folder that contains the Altspace World Preverse .tgz file, then select it, and then click Open.
