@@ -1,4 +1,4 @@
-# Altspace World Preserver  
+![](awp.png)  
 A tool to help altspacer preserve worlds before Altspace shuts down.  
 # Download
 - Go to the [release page](https://github.com/The-Free-MRE-Foundation/awp/releases), and download the tgz file.
