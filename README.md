@@ -10,6 +10,9 @@ A tool to help altspacer preserve worlds before Altspace shuts down.
 - In the Package Manager menu bar, select the plus sign drop down ("+"), and then select Add package from tarball.
 - Navigate to the folder that contains the Altspace World Preverse .tgz file, then select it, and then click Open.
 - After the package loads, you should see it in the Package Manager, you will also see a new Altspace World Perserver menu on the menu bar
+# Update to newer version
+- You can remove the package then reinstall  
+or you can simply overwrite the older tgz with the new one it will automatically reload
 # Usage
 - Click the AWP menu item, Login
 - On first login, the plugin will download necessary dependencies please for it to finish
