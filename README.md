@@ -28,24 +28,6 @@ or you can simply overwrite the older tgz with the new one it will automatically
 [![Discord](https://img.shields.io/badge/Discord-%230078D7.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yStWGYcgKJ)
 
 # User Terms
-```
-By downloading you agree to not use this tool for any malicious intentions,
-or in any illegal form, abide by International Copyright laws, not to resell
-this tool, and not in any form profit from any method using this tool.
-By agreeing, you agree that you will only use the tool for "lawful use" and
-not use in any account you do not own. Anyone caught doing so will be banned
-permanently from all future projects including updates on this one.
-
-The creators of Altspace World Preserver will NOT be responsible for any
-action performed by any user using this tool. By using this tool you agree
-to use it lawfully and use it accordingly and responsibly for your own worlds.
-If you planned to use the content for illegal purpose, you shall be liable
-for any damages not the creators, this is merely a tool for preserving your
-OWN worlds that you have permission over, for anything that you DO NOT own
-please contact the creator for permission shall you use it to upload on any
-other platforms, if you do not agree with this please do not use this tool.
-
-It's not mandatory to credit the authors, but doing so incentivizes us to
-make more free tools like this.\nIf you think this tool saves you some time,
-please consider supporting us by joining our discord server.
-```
+`
+By downloading you agree to not use this tool for any malicious intentions,or in any illegal form, abide by International Copyright laws, not to resellthis tool, and not in any form profit from any method using this tool.By agreeing, you agree that you will only use the tool for "lawful use" andnot use in any account you do not own. Anyone caught doing so will be bannedpermanently from all future projects including updates on this one.The creators of Altspace World Preserver will NOT be responsible for anyaction performed by any user using this tool. By using this tool you agreeto use it lawfully and use it accordingly and responsibly for your own worlds.If you planned to use the content for illegal purpose, you shall be liablefor any damages not the creators, this is merely a tool for preserving yourOWN worlds that you have permission over, for anything that you DO NOT ownplease contact the creator for permission shall you use it to upload on anyother platforms, if you do not agree with this please do not use this tool.It's not mandatory to credit the authors, but doing so incentivizes us tomake more free tools like this.\nIf you think this tool saves you some time,please consider supporting us by joining our discord server.
+`
