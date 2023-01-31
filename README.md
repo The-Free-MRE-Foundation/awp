@@ -30,7 +30,8 @@ or you can simply overwrite the older tgz with the new one it will automatically
 # User Terms
 ```
 By downloading you agree to not use this tool for any malicious intentions,
-or in any illegal form, abide by International Copyright laws, not to resell this tool, and not in any form profit from any method using this tool.
+or in any illegal form, abide by International Copyright laws, not to resell
+this tool, and not in any form profit from any method using this tool.
 By agreeing, you agree that you will only use the tool for "lawful use" and
 not use in any account you do not own. Anyone caught doing so will be banned
 permanently from all future projects including updates on this one.
