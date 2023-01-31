@@ -1,5 +1,6 @@
 ![](awp.png)  
 A tool to help altspacer preserve worlds before Altspace shuts down.  
+By [DaveVR](https://discord.com/users/425958565812109342), [Luminosity](https://discord.com/users/508212993574567958) and [Max](https://discord.com/users/548094385750016000)
 # Prerequisites
 ### **You must have the 2020.3.9f1 or 2020.3.18f1 Unity Editor installed (versions that's compatible with Altspace)**
 # Download
