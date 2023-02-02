@@ -16,7 +16,7 @@ By [DaveVR](https://discord.com/users/425958565812109342), [Luminosity](https://
 or you can simply overwrite the older tgz with the new one it will automatically reload
 # Usage
 - Click the AWP menu item, Login
-- On first login, the plugin will download necessary dependencies please for it to finish
+- On first login, the plugin will download necessary dependencies please wait for it to finish
 - Type in your credentials and click login
 - Click select a world
 - Click load to load a list of your worlds
