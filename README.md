@@ -39,6 +39,6 @@ If you planned to use the content for illegal purpose, you shall be liable for a
 It's not mandatory to credit the authors, but doing so incentivizes us to make more free tools like this.  If you think this tool saves you some time, please consider supporting us by joining our discord server.
 
 > **Warning**  
-> Please do not use any templates from the following individuals, because their money is more important than your worlds:  
+> The following "builders" forbid you from using their contents, because their money is more important than your worlds:  
 [Artsy](https://www.artsyvr.com/)  
 [Optic_VR](https://www.instagram.com/optic_vr/)
