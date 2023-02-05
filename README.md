@@ -37,8 +37,3 @@ The creators of Altspace World Preserver will NOT be responsible for any action 
 By using this tool you agree to use it lawfully and use it accordingly and responsibly for your own worlds.  
 If you planned to use the content for illegal purpose, you shall be liable for any damages not the creators, this is merely a tool for preserving your OWN worlds that you have permission over, for anything that you DO NOT own please contact the creator for permission shall you use it to upload on anyother platforms, if you do not agree with this please do not use this tool.  
 It's not mandatory to credit the authors, but doing so incentivizes us to make more free tools like this.  If you think this tool saves you some time, please consider supporting us by joining our discord server.
-
-> **Warning**  
-> The following "builders" forbid you from using their contents, because their money is more important than your worlds:  
-[Artsy](https://www.artsyvr.com/)  
-[Optic_VR](https://www.instagram.com/optic_vr/)
