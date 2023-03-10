@@ -1,0 +1,12 @@
+{
+  "name": "com.freemre.altspace_world_preserver",
+  "displayName": "Altspace World Preserver",
+  "author": "freemre.com",
+  "version": "0.0.9",
+  "unity": "2020.3",
+  "description": "Preserve you Altspace world with objects in them",
+  "keywords": ["altspace", "free"],
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
